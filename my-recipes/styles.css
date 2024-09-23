@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+    font-family: cursive;
+    background-color: blanchedalmond;
+   
+ }
+
+ h1 {background : green;
+text-align: center;
+color: black;
+}
+
+p {text-align: center;
+}
+
+h2 {text-align: center;
+    background-color: green;
+    color: black;
+}
+ol {text-align: center;}
+
+h3 {text-align: center;
+background-color: green;
+color: black;}
+
+ul {text-align: center;}
